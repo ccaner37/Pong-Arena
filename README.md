@@ -9,4 +9,4 @@ Player 2 = (Oyun başında Player versus bot'u kapatırsanız) = Up arrow, down 
 Skill kullanma tuşu = Q (10 saniye bekleme süresi var ve sizden -0.5 puan alıyor) <br />
  <br />
 Video <br />
-
+![caption](https://youtu.be/JgXpS6fuHJY)
