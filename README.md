@@ -8,5 +8,6 @@ Player 1 = W, S <br />
 Player 2 = (Oyun başında Player versus bot'u kapatırsanız) = Up arrow, down arrow <br />
 Skill kullanma tuşu = Q (10 saniye bekleme süresi var ve sizden -0.5 puan alıyor) <br />
  <br />
-Video <br />
+Youtube Video (Fotoğrafa tıklayın veya https://youtu.be/JgXpS6fuHJY) <br />
+[![1](http://img.youtube.com/vi/JgXpS6fuHJY/0.jpg)](http://www.youtube.com/watch?v=JgXpS6fuHJY "1")
 
